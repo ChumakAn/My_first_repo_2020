@@ -63,7 +63,7 @@ int MinValueInArray(int* array , int size, int skipval)
 	else
 		printf("The result is : -1 \n ");
 	free(array);
-	
+	printf ("ADD text");
 	return 0;
 }
  
